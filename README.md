@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @coderfromproximab010
-- Pythoneer
+- A Pythoneer 
+- ❤️ CLI
 
