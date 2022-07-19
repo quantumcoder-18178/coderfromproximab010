@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @coderfromproximab010
-- A Pythoneer 
+- 60% = Python ; 40% = Golang
 - ❤️ CLI
 
