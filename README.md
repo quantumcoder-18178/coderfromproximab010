@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @coderfromproximab010
-- 60% = Python ; 40% = Golang
+- 📊 Python - 60%
+     Golang - 40%
 - ❤️ CLI
 
