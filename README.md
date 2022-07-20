@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @coderfromproximab010
-- 📊 Python - 60%
-     Golang - 40%
+- 👋 Hi, I’m Scott Lang from Proxima B
 - ❤️ CLI
 
