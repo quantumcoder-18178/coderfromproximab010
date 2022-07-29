@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Scott Lang from Proxima B
+- 👋 Hi, I’m Scott Lang 
 - ❤️ CLI
 
